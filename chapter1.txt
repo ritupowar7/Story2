@@ -1,1 +1,1 @@
-This is a demo file for me to learn github.
+I created this repo to practice branching and merging in github.
